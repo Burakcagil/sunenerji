@@ -1,5 +1,5 @@
 .resimslider{
-height: 600px;
+height: 500px;
 padding-left: 300px;
 padding-right: 300px;
  
@@ -26,11 +26,14 @@ body{padding-top: 50px;
 .ibeyaz{
     color: #343a50;
     position: relative;
+    top: -73px;
+    font-size: 40px ;
 }
 .sag{
-    padding-right: 300px;
+    padding-right: 350px;
 }
 .sol{
-    padding-left: 300px;
+    padding-left: 350px;
 
 }
+
