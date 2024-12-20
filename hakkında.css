@@ -1,0 +1,45 @@
+.resimslider{
+
+    height: 500px;
+    padding-left: 300px;
+    padding-right: 300px;
+     
+    }
+    
+    
+    
+    
+    body{padding-top: 50px;
+     font-family: "Raleway", serif;
+    }
+    
+    
+    
+    
+    .sag{
+        padding-right: 350px;
+    }
+    .sol{
+        padding-left: 350px;
+    
+    }
+
+
+
+
+
+.hakkimizda{
+    background-color: #f2f2f2;
+
+}.ayrac{
+    border: none;
+    border-top: 5px solid #343a50;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.ibeyaz{
+    color: #343a50;
+    position: relative;
+    top: -73px;
+    font-size: 40px ;
+}
